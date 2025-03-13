@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+    --color-aqua: rgb(2, 138, 158);
+    --color-aqua-transparent: rgba(2, 138, 158, 0.25);
+    --color-dark-aqua: rgb(9, 81, 92);
+    --color-green: rgb(73, 126, 23);
+    --color-blue: rgb(31, 83, 143);
+    --color-purple: rgb(31, 83, 143);
+    --color-red: rgb(151, 23, 23);
+
+    --title-shadow: 0px 2px 4px black;
+}
+
+@media only screen and (min-width: 770px) {
+    #kiwi {
+        display: inline;
+    }
+}
+
+p {
+    margin: 16px 0;
+}
+
+h2 {
+    font-family: Heattenschweiler, sans-serif;
+}

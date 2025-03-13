@@ -1,0 +1,18 @@
+{
+  "name": "SJW2025_Fata_David",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite ."
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.14",
+    "tailwindcss": "^4.0.14",
+    "vite": "^6.2.1"
+  }
+}
